@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareX AI 🩺
 
 AI-Powered Healthcare Assistant built with Streamlit and OpenAI.
@@ -48,3 +49,6 @@ AI-Powered Healthcare Assistant built with Streamlit and OpenAI.
 - **Streamlit**: Web framework
 - **OpenAI**: AI model for responses
 - **Python**: Programming language
+=======
+# carex-ai
+>>>>>>> 23e47436e37f23504dbe44f5aec67eca34c83de5
